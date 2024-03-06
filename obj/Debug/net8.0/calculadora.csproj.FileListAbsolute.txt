@@ -1,0 +1,14 @@
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.AssemblyInfo.cs
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\campi\OneDrive\Documents\calculadora\bin\Debug\net8.0\calculadora.exe
+C:\Users\campi\OneDrive\Documents\calculadora\bin\Debug\net8.0\calculadora.deps.json
+C:\Users\campi\OneDrive\Documents\calculadora\bin\Debug\net8.0\calculadora.runtimeconfig.json
+C:\Users\campi\OneDrive\Documents\calculadora\bin\Debug\net8.0\calculadora.dll
+C:\Users\campi\OneDrive\Documents\calculadora\bin\Debug\net8.0\calculadora.pdb
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.dll
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\refint\calculadora.dll
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.pdb
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
+C:\Users\campi\OneDrive\Documents\calculadora\obj\Debug\net8.0\ref\calculadora.dll
